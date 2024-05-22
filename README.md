@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Forhad Khan</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
-<h4 align="center"
+<h4 align="center">
 I am Forhad Khan, a React and Next.js frontend developer with three years of learning experience and professional work at two companies, Remostarts and Al-Jaami. My technical skills include proficiency in Framer Motion, React Hook Form, Redux, HTML, CSS, Bootstrap, TailwindCSS, SCSS/SASS, and JavaScript. I am well-versed in using Git and GitHub for version control and have experience deploying applications using Netlify and Vercel. My expertise extends to working with TypeScript, ensuring responsive design, and utilizing Firebase and MongoDB for backend services. I am currently expanding my knowledge by learning machine learning, aiming to integrate this advanced technology into my development projects.</h3>
 
 
-- 🔭 I’m currently working on [lambo-showcase]([[https://lambo-showcase.vercel.app/]))
+🔭 I’m currently working on [(lambo-showcase]([https://lambo-showcase.vercel.app/)]
 
-- 🌱 I’m currently learning **Python,Machine Learning**
+🌱 I’m currently learning **Python,Machine Learning**
 
-- 📫 How to reach me **forhadkhan2011@gmail.com**
+📫 How to reach me **forhadkhan2011@gmail.com**
 
-- 📄 Know about my experiences [([https://drive.google.com/file/d/1Jkce3SipOUtyooiKTPO-FmpDppJJLqKq/view?usp=share_link](https://drive.google.com/file/d/1SNn82NF1J3ht78kMW_Rlh9a25qoKccjF/view?usp=sharing)]
+📄 Know about my experiences [([resume](https://drive.google.com/file/d/1SNn82NF1J3ht78kMW_Rlh9a25qoKccjF/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
