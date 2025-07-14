@@ -4,7 +4,7 @@
 I am Forhad Khan, a React and Next.js frontend developer with three years of learning experience and professional work at two companies, Remostarts and Al-Jaami. My technical skills include proficiency in Framer Motion, React Hook Form, Redux, HTML, CSS, Bootstrap, TailwindCSS, SCSS/SASS, and JavaScript. I am well-versed in using Git and GitHub for version control and have experience deploying applications using Netlify and Vercel. My expertise extends to working with TypeScript, ensuring responsive design, and utilizing Firebase and MongoDB for backend services. I am currently expanding my knowledge by learning machine learning, aiming to integrate this advanced technology into my development projects.</p>
 
 
-🔭 I’m currently working on [[lambo-showcase]([https://lambo-showcase.vercel.app/)]
+🔭 I’m currently working on [[cuppacino]([https://lambo-showcase.vercel.app)]
 
 🌱 I’m currently learning **Python,Machine Learning**
 
