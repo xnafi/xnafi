@@ -10,7 +10,7 @@ I am Forhad Khan, a React and Next.js frontend developer with four years of lear
 
 📫 How to reach me **forhadkhan2011@gmail.com**
 
-📄 Know about my experiences [[resume](https://drive.google.com/file/d/1SNn82NF1J3ht78kMW_Rlh9a25qoKccjF/view?usp=sharing)]
+📄 Know about my experiences [[resume](https://drive.google.com/file/d/1uTiGGQJ6TmBtVpHFfUgqO5MguhQFPOJB/view?usp=drive_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
