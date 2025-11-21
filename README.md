@@ -2,7 +2,9 @@
 <h3 align="left">A Passionate Frontend Developer</h3>
 <p align="left">
 I'm Forhad Khan,
-Frontend Developer (React & Next.js) with 4+ years of hands-on experience, including professional roles at Remostarts, Al-Jaami, and Elegant WebStudio. Skilled in building responsive, user-friendly applications with React, Next.js, TypeScript, Redux, and React Hook Form, along with modern styling frameworks such as Tailwind CSS, SCSS/SASS, Bootstrap, and Framer Motion. Proficient in Git/GitHub for version control and experienced in deploying applications on Vercel and Netlify. Strong background in integrating backend services using Firebase and MongoDB. Currently enhancing expertise in machine learning to bring advanced intelligence into frontend solutions.</p>
+  Front-end developer with 4+ years of experience in developing scalable and high-performance web apps using React, Next.js, TypeScript, JavaScript, and Tailwind CSS. Skilled in responsive, reusable, and accessible UI component development, API integrations, and optimization of page performance and loading speed. Experience with Redux Toolkit, Framer Motion, GSAP, Firebase, and MongoDB. Strong background in building SEO-friendly Next.js applications and implementing features within Agile, remotely distributed teams. Proven ability to translate UI/UX designs into clean, maintainable code and improve application performance up to 35%. Delivered production-ready solutions in real estate, corporate, and e-commerce
+platforms.
+</p>
 
 
 🔭 I’m currently working on [[cuppacino]([https://lambo-showcase.vercel.app)]
