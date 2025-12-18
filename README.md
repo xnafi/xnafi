@@ -3,9 +3,9 @@
 <p align="left">
 I'm Forhad Khan,
   
-Front-End Developer with 4+ years of hands-on experience in constructing scalable, high-performance web applications with React, Next.js, and TypeScript. A specialist in converting complex UI/UX ideas into pixel-perfect, reusable, responsive components, powered by Tailwind CSS, Redux Toolkit, and modern animation frameworks such as Framer Motion and GSAP. Proven track record of improving application performance by a maximum of 35%, increasing user engagement through animation-driven interfaces, and implementing robust features with clean, maintainable code.
+Front End Developer with over 4 years of hands-on experience in developing high performance web applications using React, Next.js, and TypeScript. Specialized in transforming complex UI/UX designs into pixel-perfect and reusable components backed by Tailwind CSS, Redux Toolkit, and leading animation libraries Framer Motion and GSAP. Experienced in enhancing the performance of applications by a maximum of 35%, as well as increased user engagement by designing interfaces with heavy use of animations and development of reliable features with clean code.
 
-Experienced with Firebase, MongoDB, API integrations, and optimizing SEO-friendly Next.js applications. I successfully contributed to several international projects—real estate platforms, corporate websites, e-commerce systems, and an NPM package—while working in distributed teams at Remostarts, Al Jaami Technologies, and Elegant Web Studio. Highly committed to crafting intuitive digital experiences that balance aesthetic precision, technical excellence, and scalable architecture.
+Skilled in Firebase, MongoDB, API implementation, and the optimization of SEO-friendly Next.js apps. Successfully participated in the development of several international projects real-state websites, business sites, e-commerce websites, and an NPM package as part of remote teams at Remostarts, Al Jaami Technologies, and Elegant Web Studio. Extremely passionate about building intuitive digital products which require the perfect balance of design accuracy, technical mastery, and scalable design.
 </p>
 
 
