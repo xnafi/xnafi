@@ -3,9 +3,19 @@
 <p align="left">
 I'm Forhad Khan,
   
-Front End Developer with over 4 years of hands-on experience in developing high performance web applications using React, Next.js, and TypeScript. Specialized in transforming complex UI/UX designs into pixel-perfect and reusable components backed by Tailwind CSS, Redux Toolkit, and leading animation libraries Framer Motion and GSAP. Experienced in enhancing the performance of applications by a maximum of 35%, as well as increased user engagement by designing interfaces with heavy use of animations and development of reliable features with clean code.
+Frontend Developer with strong production-level experience building high-performance web
+applications using React, Next.js, and TypeScript.
 
-Skilled in Firebase, MongoDB, API implementation, and the optimization of SEO-friendly Next.js apps. Successfully participated in the development of several international projects real-state websites, business sites, e-commerce websites, and an NPM package as part of remote teams at Remostarts, Al Jaami Technologies, and Elegant Web Studio. Extremely passionate about building intuitive digital products which require the perfect balance of design accuracy, technical mastery, and scalable design.
+Focused on creating scalable admin dashboards, reusable UI components, and pixel-perfect
+interfaces using Tailwind CSS, Redux Toolkit, Framer Motion, and GSAP. Experienced in frontend
+performance optimization, SEO-friendly Next.js applications, and clean, maintainable code.
+
+Worked on international real-world projects including dashboards, business websites,
+real estate platforms, e-commerce sites, and an open-source NPM package.
+
+Tech: React • Next.js • TypeScript • Tailwind CSS • Redux Toolkit • TanStack Query
+• Framer Motion • Firebase • REST APIs
+
 </p>
 
 
