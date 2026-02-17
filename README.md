@@ -2,8 +2,7 @@
 <h3 align="left">A Passionate Frontend Developer</h3>
 <p align="left">
   
-I’m Forhad Khan, a Frontend Developer with strong production-level experience building
-scalable and high-performance web applications.
+I’m Forhad Khan, I build scalable SaaS dashboards and product-focused web applications with clean architecture and performance-first design.
 
 I specialize in React, Next.js, and TypeScript, translating complex UI/UX designs into
 pixel-perfect, reusable, and accessible components. My work focuses on clean architecture,
