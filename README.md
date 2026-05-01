@@ -26,7 +26,7 @@ I collaborate closely with designers and backend teams to deliver **clean, maint
 - Built scalable React.js & Next.js applications using component-driven architecture  
 - Developed shared UI component library (shadcn/ui, Radix UI) → **30% faster delivery**  
 - Implemented **RBAC systems** for multi-role admin dashboards  
-- Mentored junior developers & conducted code reviews  
+- Mentored intern developers & conducted code reviews  
 
 ---
 
